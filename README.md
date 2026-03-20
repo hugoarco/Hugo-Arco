@@ -1,7 +1,9 @@
 👋 Hola, soy estudiante de SMR
 
 🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR)
+
 💻 Apasionado por el hardware, las redes y el desarrollo web
+
 🚀 Resolutivo y siempre en constante aprendizaje
 
 ## HABILIDADES
