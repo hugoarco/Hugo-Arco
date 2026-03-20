@@ -14,6 +14,8 @@
 * Soldadura electrónica
 * Montaje y desmontaje de equipos
 * Montaje y reparación de mandos
+* Instalación y configuración de sistemas operativos.
+
 
 🌐 **Redes**
 
@@ -40,6 +42,7 @@
 
 * Creación de rack en casa
 * Diseño de páginas web para negocios
+* * Utilización de linux para proyectos como servidor web o servidor vpn 
 
 ---
 
